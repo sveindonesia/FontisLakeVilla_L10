@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = 360 Fontis Lake Villa
+tour.name = 360 Fontis Lake Villa L10
 
 ## Skin
 
@@ -14,8 +14,8 @@ Button_8C63782A_DCA7_64D5_41E4_B44E425E1550.label = CONTACT
 
 ### Multiline Text
 HTMLText_8C63582A_DCA7_64D5_41B4_1CCE0A87411A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.999999999999993vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:5vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.20000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.830000000000008vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.83vh;font-family:'Oswald Regular';"><B>Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>info@loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 1</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 2</B></SPAN></SPAN></DIV></div>
-HTMLText_C02767BB_DD67_2B2B_41E3_A188B69F9625.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.440000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Unfitted</SPAN></DIV></div>
-HTMLText_C03947BF_DD67_2B2B_41E1_8CD5E27116F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.440000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Fitted</SPAN></DIV></div>
+HTMLText_C02767BB_DD67_2B2B_41E3_A188B69F9625.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.4400000000000026vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Unfitted</SPAN></DIV></div>
+HTMLText_C03947BF_DD67_2B2B_41E1_8CD5E27116F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.4400000000000026vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Fitted</SPAN></DIV></div>
 HTMLText_CFB18C6B_DBA3_7D2B_41D8_7879F0622A1E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:35px;"><B>{{TITLE}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>{{Subtitle}}</B></SPAN></SPAN></DIV></div>
 
 ### Label
@@ -25,7 +25,7 @@ Label_21DECDB5_3F68_0AFC_41CC_7D224E5EF1E9.text = FACILITIES
 Label_3CC6D55B_2DB2_FFDC_41AC_1D1C3B32F3B3.text = Dining Room
 Label_3CC6D55B_2DB2_FFDC_41BE_34D832D596B9.text = Hobby Room
 Label_3CC6E55B_2DB2_FFDC_41BC_BB4F29391AB1.text = 2nd Floor Corridor
-Label_3CC7355A_2DB2_FFDC_41C3_D6BB985C1F26.text = Elevated
+Label_3CC7355A_2DB2_FFDC_41C3_D6BB985C1F26.text = Elevation
 Label_3CC7A55A_2DB2_FFDC_41C0_2D460221E41E.text = Living Room
 Label_3CC9355C_2DB2_FFD4_41B8_7DF728C3F9EB.text = Master Bedroom
 Label_3CC9F55C_2DB2_FFD4_41B7_D67F0141B725.text = Balcony
@@ -59,15 +59,15 @@ Label_F313DD17_E963_D53C_41AC_6BC1F5D748A6.text = BETA 3.5 X 9 ( 2KT )
 
 ### Title
 map_8B0F274A_99D4_54D5_41C8_E3E2595F87D3.label = L10 - Floorplan
-panorama_885E66BF_99D4_55AB_41C6_2880D6504329.label = L10 - Master Bedroom
-panorama_8873A82C_99CC_7CAD_41C1_7F370B0A0327.label = L10 - View Elevated
 panorama_889D1F8E_99D4_D46D_41D3_FC5F63DDD813.label = L10 - Hobby Room
-panorama_88BD195F_99D3_BCEB_41B1_6BC5F6F14795.label = L10 - Balcony
-panorama_8BA9CEBA_99D5_D5B5_41D0_3AEDD8E61DED.label = L10 - Dining Room
-panorama_8BC1F02D_99D3_ACAF_4199_9A075C2513ED.label = L10 - View Living Room
 panorama_8BE6D219_99DC_AC77_41E0_1B5BEC61EEFC.label = L10 - Boys's Bedroom
 panorama_8BED8AD0_99DD_BDF5_41CC_90562796AA05.label = L10 - Girl's Bedroom
 panorama_8BF642A0_99D4_AC55_41CB_58C9CAAAF69C.label = L10 - 2nd Floor Corridor
+panorama_9279B8D2_9F38_1DB7_41DE_0C00FC6A5570.label = L10 - View Elevated
+panorama_92D06DDD_9F38_F7AC_41DC_A0BEE73EA144.label = L10 - Dining Room
+panorama_92E77AC2_9F38_1D94_41D8_7B941417D016.label = L10 - View Living Room
+panorama_92F1FB94_9F38_73BC_41D4_F2AD4917CF78.label = L10 - Master Bedroom
+panorama_92FAD47E_9F39_F56C_41D8_BBD55741C1E7.label = L10 - Balcony
 
 ## Action
 
