@@ -63,14 +63,14 @@ panorama_889D1F8E_99D4_D46D_41D3_FC5F63DDD813.label = L10 - Hobby Room
 panorama_8BE6D219_99DC_AC77_41E0_1B5BEC61EEFC.label = L10 - Boys's Bedroom
 panorama_8BED8AD0_99DD_BDF5_41CC_90562796AA05.label = L10 - Girl's Bedroom
 panorama_8BF642A0_99D4_AC55_41CB_58C9CAAAF69C.label = L10 - 2nd Floor Corridor
-panorama_9279B8D2_9F38_1DB7_41DE_0C00FC6A5570.label = L10 - View Elevated
-panorama_92D06DDD_9F38_F7AC_41DC_A0BEE73EA144.label = L10 - Dining Room
-panorama_92E77AC2_9F38_1D94_41D8_7B941417D016.label = L10 - View Living Room
+panorama_92D06DDD_9F38_F7AC_41DC_A0BEE73EA144.label = L10 - View Living Room
+panorama_92E77AC2_9F38_1D94_41D8_7B941417D016.label = L10 - Dining Room
 panorama_92F1FB94_9F38_73BC_41D4_F2AD4917CF78.label = L10 - Master Bedroom
 panorama_92FAD47E_9F39_F56C_41D8_BBD55741C1E7.label = L10 - Balcony
+panorama_DE81AD4A_D334_9056_41AA_3C80D0208CCA.label = L10 - View Elevated
+video_C3D174E2_D3DE_4378_4184_11EAD2688000.label = ClusterLakeVilla
 
 ## Action
 
 ### URL
 LinkBehaviour_8A1C3DF1_DCAF_1F37_41E4_FFFE7C8C2C46.source = http://www.loremipsum.com
-PopupWebFrameBehaviour_8EB07A8F_976D_3FBA_41E2_B5CD9F79DE93.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1478.2653768796438!2d106.62939612358235!3d-6.338853328092568!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e500167a94ab%3A0xc5d717bf6c8480bf!2sCluster%20Elaia%20(Citra%20Garden%20Serpong)!5e1!3m2!1sen!2sid!4v1724831388244!5m2!1sen!2sid
